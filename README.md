@@ -1,16 +1,26 @@
-# task_management_app
+# Task Management App
 
-A new Flutter project.
+A Flutter Task Management App where users can manage their daily tasks efficiently. Users can **add new tasks, edit existing ones, mark completed tasks** (tick becomes a cross), and **delete tasks**. The app features a clean, interactive UI and demonstrates practical Flutter skills including state management and navigation.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- Add new tasks
+- Edit existing tasks
+- Mark tasks as completed (tick turns to cross)
+- Delete tasks
+- Interactive and clean UI
+- Beginner-friendly Flutter project
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Task Management App Screenshot](https://github.com/gillzaib021-code/Task_Management_App/blob/8d2cd55b5d6e4a2c1a9edbab9758d2e30e9f55c0/taskmang.jpeg)
+
+---
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/task_management_app.git
